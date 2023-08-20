@@ -1,4 +1,4 @@
-// A built-in module for making http requests
+
 const https = require("https");
 
 // Detecting the current time to calculate how much
