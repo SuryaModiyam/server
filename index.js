@@ -18,11 +18,7 @@ function doRequest() {
     .end();
 }
 
+
 // Making a request multiple times...
 doRequest();
-doRequest();
-doRequest();
-doRequest();
-doRequest();
-doRequest();
-doRequest();
+
