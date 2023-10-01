@@ -1,4 +1,4 @@
-
+// https is a builtin module
 const https = require("https");
 
 // Detecting the current time to calculate how much
@@ -18,11 +18,7 @@ function doRequest() {
     .end();
 }
 
+
 // Making a request multiple times...
 doRequest();
-doRequest();
-doRequest();
-doRequest();
-doRequest();
-doRequest();
-doRequest();
+
